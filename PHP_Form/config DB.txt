@@ -1,0 +1,7 @@
+The following is what the code is using for Database purposes.
+The prefered tool to use is XAMP.
+
+Database Name: Form
+Table Name: users
+Table Rows: 4
+ID, username, email, password.
